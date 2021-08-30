@@ -17,7 +17,6 @@ const ProjectPage = ({
       <div className="card card-page">
         <h1 className="project-title">{title}</h1>
         <div className="project-date">Posted on {date}</div>
-        <img src={cover_image} alt="" />
         <div className="post-body">
           <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
         </div>

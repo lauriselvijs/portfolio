@@ -54,6 +54,21 @@ header a {
   text-decoration: none;
   font-size: 15px;
   font-family: inherit;
+  margin: 10px;
+}
+
+.github-btn {
+  display: inline-block;
+  background: grey;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
+  margin: 10px;
 }
 
 .btn:focus {
@@ -74,13 +89,13 @@ header a {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 30px;
-  margin-top: 30px;
 }
 
 .card {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
 }
 
 .card-page {
