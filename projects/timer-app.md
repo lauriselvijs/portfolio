@@ -2,7 +2,7 @@
 title: "Timer app"
 date: "August 27, 2021"
 info: "Sets reminder about future event"
-tools: "ReactJS, Cleave.js, Redux, Bootstrap, HTML, CSS"
+tools: "ReactJS, Cleave.js, Redux, Bootstrap, HTML, CSS, JavaScript"
 cover_image: "/images/projects/timer-app/main-view.png"
 git_hub: "https://github.com/lauriselvijs/timer-app"
 main_page: "https://github.com/lauriselvijs/timer-app"

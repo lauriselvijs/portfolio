@@ -2,7 +2,7 @@
 title: "E-commerce app"
 date: "August 4, 2021"
 info: "Electronic store enables allows to buy and add to cart multiple items"
-tools: "ReactJS, Axios, ExpressJS, Mongoose, Stripe API, Bootstrap, CSS, HTML"
+tools: "ReactJS, Axios, ExpressJS, Mongoose, Stripe API, Bootstrap, CSS, HTML, Node.js, JavaScript"
 cover_image: "/images/projects/e-commerce-app/main-view.png"
 git_hub: "https://github.com/lauriselvijs/e-commerce-app"
 main_page: "https://github.com/lauriselvijs/e-commerce-app"

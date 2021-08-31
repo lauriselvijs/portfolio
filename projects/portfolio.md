@@ -2,7 +2,7 @@
 title: "Portfolio"
 date: "August 6, 2021"
 info: "Displays portfolio projects"
-tools: "ExpressJS, HTML, CSS, marked.js, grey-matter"
+tools: "ExpressJS, HTML, CSS, marked.js, grey-matter, Next.js, JavaScript"
 cover_image: "/images/projects/portfolio/main-view.png"
 git_hub: "https://github.com/lauriselvijs/portfolio"
 main_page: "https://github.com/lauriselvijs/portfolio"
