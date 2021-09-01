@@ -1,16 +1,18 @@
 import Link from "next/link";
+import navbarStyle from "../styles/navbar.module.css";
 
 const Header = () => {
   return (
-    <header>
-      <div className="container">
-        <h2>
-          <Link href="/" passHref>
-            Portfolio
-          </Link>
-        </h2>
+    <div className={navbarStyle.navbar}>
+      <div className={navbarStyle.navbar_container}>
+        <Link href="/" passHref>
+          Portfolio
+        </Link>
+        <Link href="/about" passHref>
+          About
+        </Link>
       </div>
-    </header>
+    </div>
   );
 };
 

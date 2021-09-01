@@ -25,17 +25,6 @@ img {
   border-radius: 10px;
 }
 
-header {
-  background: steelblue;
-  color: #fff;
-  padding: 5px;
-  margin-bottom: 40px;
-}
-
-header a {
-  color: #fff;
-}
-
 .container {
   max-width: 768px;
   margin: auto;
@@ -95,7 +84,7 @@ header a {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .card-page {
