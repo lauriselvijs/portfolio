@@ -5,7 +5,7 @@ info: "App can delete and add items"
 tools: "HTML, CSS, Bootstrap, PHP, JavaScript, jQuery"
 cover_image: "/images/projects/web-shop/main-view.png"
 git_hub: "https://github.com/lauriselvijs/web-shop"
-main_page: "https://github.com/lauriselvijs/web-shop"
+main_page: "https://cartelist-abettor.000webhostapp.com/web-shop/"
 ---
 
 Main view

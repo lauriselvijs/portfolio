@@ -5,7 +5,7 @@ info: "Used to add information about future event"
 tools: "ExpressJS, Handlebars.js, Bootstrap, HTML, Node.js JavaScript"
 cover_image: "/images/projects/memo-calendar/main-view.png"
 git_hub: "https://github.com/lauriselvijs/memo-calendar"
-main_page: "https://github.com/lauriselvijs/memo-calendar"
+main_page: "https://memo-calendar-10472.herokuapp.com/"
 ---
 
 Main view
