@@ -2,7 +2,7 @@
 title: "Web shop"
 date: "August 30, 2021"
 info: "App can delete and add items"
-tools: "HTML, CSS, Bootstrap, PHP, JavaScript, jQuery"
+tools: "HTML, CSS, Bootstrap, PHP, JavaScript, jQuery, SASS"
 cover_image: "/images/projects/web-shop/main-view.png"
 git_hub: "https://github.com/lauriselvijs/web-shop"
 main_page: "https://cartelist-abettor.000webhostapp.com/web-shop/"
@@ -10,6 +10,11 @@ main_page: "https://cartelist-abettor.000webhostapp.com/web-shop/"
 
 Main view
 ![Main view](/images/projects/web-shop/main-view.png)
+
+---
+
+Add product view
+![Add product view](/images/projects/web-shop/add-product-view.png)
 
 ---
 
