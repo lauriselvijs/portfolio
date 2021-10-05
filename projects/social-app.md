@@ -1,8 +1,8 @@
 ---
 title: "Social app"
 date: "October 4, 2021"
-info: "Social app where people can exchange ideas "
-tools: "Redux, Postgres, React.js, material-ui, Express.js Sequelize, Axios, Jwt-authentication"
+info: "Social app where people can exchange ideas"
+tools: "Redux, Postgres, React.js, material-ui, Express.js Sequelize, Axios, CSS, HTML, jwt-authentication"
 cover_image: "/images/projects/social-app/my-account.png"
 git_hub: "https://github.com/lauriselvijs/social-app"
 main_page: "https://social-app-08841.herokuapp.com"
