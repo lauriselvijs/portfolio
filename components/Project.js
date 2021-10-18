@@ -9,7 +9,9 @@ const Project = ({ project }) => {
       <div className="project-date">Posted on {project.frontmatter.date}</div>
       <h3>{project.frontmatter.title}</h3>
       <p>{project.frontmatter.info}</p>
-      <p>{project.frontmatter.tools}</p>
+      <p>
+        <b>{project.frontmatter.tools}</b>
+      </p>
       <div className="container">
         <a
           className="github-btn"
