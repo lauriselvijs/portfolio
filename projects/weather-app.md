@@ -6,7 +6,7 @@ next three days"
 tools: "ReactJS, Axios, Bootstrap, HTML, CSS, JavaScript"
 cover_image: "/images/projects/weather-app/main-view-metric.png"
 git_hub: "https://github.com/lauriselvijs/weather-app"
-main_page: "https://dd79ecweat-weather-app.netlify.app/"
+main_page: "https://c0a19d-weather-app.netlify.app/"
 ---
 
 Main view metric
