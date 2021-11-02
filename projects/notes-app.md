@@ -2,7 +2,7 @@
 title: "Notes app"
 date: "August 6, 2021"
 info: "App for adding and deleting notes"
-tools: "Bcryptjs, ExpressJS, Mongoose, JWT, ReactJS, Redux, Axios, Bootstrap, HTML, CSS, Node.js, JavaScript"
+tools: "Bcryptjs, ExpressJS, Mongoose, JWT, ReactJS, Redux, Axios, Bootstrap, HTML, CSS, Node.js, JavaScript, TypeScript"
 cover_image: "/images/projects/notes-app/main-view.png"
 git_hub: "https://github.com/lauriselvijs/notes-app"
 main_page: "https://notes-app-22809.herokuapp.com/"
