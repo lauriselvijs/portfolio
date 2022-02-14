@@ -5,7 +5,9 @@ const Footer = () => {
   return (
     <footer className={footerStyle.footer}>
       <hr />
-      <p className={footerStyle.copyright_year}>Copyright &copy; 2021</p>
+      <p className={footerStyle.copyright_year}>
+        Copyright &copy; {new Date().getFullYear()}
+      </p>
     </footer>
   );
 };
