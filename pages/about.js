@@ -12,7 +12,7 @@ const about = () => {
       <h4>
         <a href="mailto:lauriselvijsma@gmail.com">
           Email: lauriselvijsma@gmail.com
-        </a>{" "}
+        </a>
       </h4>
       <h4>Version 1.0.0</h4>
       <Link href="/" passHref>

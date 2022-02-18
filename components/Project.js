@@ -5,7 +5,9 @@ import { AiFillHome } from "react-icons/ai";
 const Project = ({ project }) => {
   return (
     <div className="card">
-      <img src={project.frontmatter.cover_image} alt="" />
+      <a href={`/portfolio/${project.slug}`} title="click to see more">
+        <img src={project.frontmatter.cover_image} alt="" />
+      </a>
       <div className="project-date">Posted on {project.frontmatter.date}</div>
       <h3>{project.frontmatter.title}</h3>
       <p>{project.frontmatter.info}</p>
