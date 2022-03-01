@@ -5,7 +5,7 @@ info: "PHP webshop with React.js frontend "
 tools: "ReactJS, Axios, MySql, HTML, CSS, SCSS, JavaScript, PHP"
 cover_image: "/images/projects/web-shop-react-php/web-shop-react-php-main.png"
 git_hub: "https://github.com/lauriselvijs/web-shop-react-php"
-main_page: "https://cartelist-abettor.000webhostapp.com/"
+main_page: "https://cartelist-abettor.000webhostapp.com/products/"
 ---
 
 Main view
