@@ -5,7 +5,7 @@ info: "Car dealership header displays info about car"
 tools: "SASS, HTML"
 cover_image: "/images/projects/car-dealership-header/car-dealership-header.png"
 git_hub: "https://github.com/lauriselvijs/car-dealership-header"
-main_page: "https://cartelist-abettor.000webhostapp.com/car-dealership-header/"
+main_page: "https://29e685-car-dealership-header.netlify.app/"
 ---
 
 Main view
