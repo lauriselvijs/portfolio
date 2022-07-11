@@ -5,7 +5,7 @@ info: "Webpage for subscription to newsletter"
 tools: "ReactJS, Axios, PHP, SCSS, HTML, CSS, MySQL, JavaScript"
 cover_image: "/images/projects/newsletter-subscription/newsletter-subscription-desktop.png"
 git_hub: "https://github.com/lauriselvijs/newsletter-subscription"
-main_page: "https://cartelist-abettor.000webhostapp.com/emails/"
+main_page: "https://fb9a03-newsletter-subscription.netlify.app/"
 ---
 
 Main view
